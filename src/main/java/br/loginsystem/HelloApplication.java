@@ -1,5 +1,6 @@
 package br.loginsystem;
 
+import br.loginsystem.com.Model.UserModel;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

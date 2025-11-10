@@ -1,10 +1,11 @@
 package br.loginsystem.com.Model;
 
 import lombok.Builder;
-import lombok.Value;
+import lombok.Data;
+
 
 @Builder
-@Value
+@Data
 public class UserModel {
     private String username;
     private String password;
